@@ -1,5 +1,6 @@
 {
   "name": "hyperdrive-checkout",
+  "description": "checkout previous snapshots of files in a hyperdrive",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -29,6 +30,5 @@
   "bugs": {
     "url": "https://github.com/substack/hyperdrive-checkout/issues"
   },
-  "homepage": "https://github.com/substack/hyperdrive-checkout#readme",
-  "description": ""
+  "homepage": "https://github.com/substack/hyperdrive-checkout#readme"
 }
