@@ -21,7 +21,9 @@
     "type": "git",
     "url": "git+https://github.com/substack/hyperdrive-checkout.git"
   },
-  "keywords": [],
+  "keywords": [
+    "hyperdrive"
+  ],
   "author": "",
   "license": "BSD",
   "bugs": {
