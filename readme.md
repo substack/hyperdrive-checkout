@@ -2,10 +2,6 @@
 
 checkout previous snapshots of files in a hyperdrive
 
-This module depends on an [upstream hyperdrive patch][1].
-
-[1]: https://github.com/mafintosh/hyperdrive/pull/89
-
 # example
 
 ``` js
