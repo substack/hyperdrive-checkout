@@ -1,7 +1,7 @@
 {
   "name": "hyperdrive-checkout",
   "description": "checkout previous snapshots of files in a hyperdrive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "collect-stream": "^1.1.1",
